@@ -7,6 +7,7 @@ From the [Releases page](https://github.com/matterport/Mask_RCNN) page download 
 
 ## Dataset
 We chose to use VGG Image Annotator (VIA) to annotate housing materials.
+
 ![Label Example](LabelExample.jpg)
 
 ## Run Jupyter notebooks
