@@ -51,4 +51,4 @@ tensorboard --logdir=logs --port=8080
 ```
 
 ## Detect Example
-![Detedt Example](DetectExample.png)
+![DetectExample](DetectExample.png)
