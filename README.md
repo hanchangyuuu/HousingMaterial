@@ -41,10 +41,13 @@ gcloud compute scp --recurse housingmaterial@cuda-11-0-20210412-205353:~/Mask_RD
 gcloud compute scp --recurse housingmaterial@cuda-11-0-20210412-205353:/home/jupyter/Mask_RCNN/logs/ ./
 ```
 
-## Visualize training result 
+## Visualize training process 
 ```
 tensorboard --logdir=/home/jupyter/Mask_RCNN/logs/ --port=8080
 ```
 ```
 tensorboard --logdir=logs --port=8080
 ```
+
+## Detect Example
+![Detedt Example](DetectExample.jpg)
